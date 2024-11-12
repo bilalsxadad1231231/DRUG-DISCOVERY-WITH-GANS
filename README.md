@@ -1,4 +1,4 @@
-# Drug Discovery Project
+# Drug Discovery with WGAN streamlit demo
 
 ![Project Overview](https://github.com/bilalsxadad1231231/DRUG-DISCOVERY-WITH-GANS/blob/main/Pictures/Molecule_sample.png)
 
